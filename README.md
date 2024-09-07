@@ -2,5 +2,5 @@
 
 
 # PPTs
-# - Perceptron Algorithm
-# - Convolutional Neural Network (CNN)
+# - Perceptron Algorithm (Python Example) 
+# - Convolutional Neural Network, CNN, (Python Example) 
